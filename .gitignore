@@ -1,0 +1,15 @@
+
+# Python virtual environment
+venv
+
+# debug files
+**/.gdb_history
+
+# Temporal files
+**/tmp
+
+# Shellcode 
+**/shellcode/*.o
+**/shellcode/*.bin
+**/shellcode/*.exe
+
